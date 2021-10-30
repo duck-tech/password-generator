@@ -1,6 +1,6 @@
 # 密碼產生器 Ranodm Password Generator
 
-![Index page about Restaurant List](./image/sample.png)
+![](./image/sample.png)
 
 ## 介紹
 
